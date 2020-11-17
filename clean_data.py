@@ -1,1 +1,1 @@
-Hello team. Let's get to work!
+Hello team!
