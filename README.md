@@ -6,7 +6,6 @@
 ### - Investigating the effects of climate change on wildfires in California.   
 #### - What is the effect of prolonged drought in California on the severity and frequency of wildfires?  
 #### - What communities are affected by wildfires and how?  
-#### - What is the effect of increasing global temperatures on wildfire severity and frequency?  
-#### - What is the effect of decreased air quality on health?  
+#### - What is the effect of increasing global temperatures on wildfire severity and frequency?    
 #### - Have wildfires intensified in recent years?  
 #### - How can we reduce wildfires in California?  
