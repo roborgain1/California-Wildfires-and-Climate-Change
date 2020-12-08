@@ -11,6 +11,7 @@
   ![](Images/Rob_Bar.png)
 > - Largest fires in California.
 >> - We found that 9 of the 20 largest fires in California have happened in the past two years, and 2018 and 2020 were outliers in terms of acres burned. 
+  ![](Images/top_20_years_vs_acresburned_all.png)
 > - How can we reduce wildfires in California? 
 >> - Activism and education not only for climate change but for wildfire awareness in California will be crucial to managing wildfire frequency and intensity. 
 
